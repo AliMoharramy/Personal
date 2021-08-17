@@ -24,11 +24,11 @@ h2 {
 }
 @font-face {
   font-family: "Righteous";
-  src: url(/assets/Fonts/ConcertOne-Regular.ttf);
+  src: url(../Fonts/ConcertOne-Regular.ttf);
 }
 @font-face {
   font-family: "Sacramento";
-  src: url(/assets/Fonts/Sacramento-Regular.ttf);
+  src: url(../Fonts/Sacramento-Regular.ttf);
 }
 
 .flex {
@@ -56,7 +56,7 @@ main {
 }
 .name-p2 {
   flex: 1 2 20rem;
-  background: url(/assets/img/IMG_0772-min\ -\ Copy.jpg);
+  background-image: url(../img/Mypicture.jpg);
   background-position: center;
   background-size: cover;
   color: white;
